@@ -2,8 +2,8 @@
 	"First name": "Anzhelika",
 	"Last name": "Smarhun",
 	"Patronymic": "Anatolievna",
-	"Age": "28",
-	"Pets": "1",
+	"Age": 28,
+	"Pets": null,
 	"Expected salary": "300$"
 
 }
