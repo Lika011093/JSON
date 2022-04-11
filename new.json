@@ -1,10 +1,10 @@
 {
-	"firstName": "Anzhelika",
-	"lastName": "Smarhun",
+	"first_name": "Anzhelika",
+	"last_name": "Smarhun",
 	"patronymic": "Anatolievna",
 	"age": 28,
 	"pets": null,
-	"expectedSalary": "300$"
+	"expected_salary": "300$"
 
 }
 
